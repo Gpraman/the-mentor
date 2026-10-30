@@ -26,7 +26,7 @@ MODEL_NAME = "gemini-flash-lite-latest"
 # 2. GOOGLE SHEETS SETUP
 # ============================================================
 # ΒΑΛΕ ΕΔΩ ΤΟ ΔΙΚΟ ΣΟΥ WEB APP URL ΑΠΟ ΤΟ GOOGLE APPS SCRIPT
-GOOGLE_SCRIPT_URL = "ΒΑΛΕ_ΕΔΩ_ΤΟ_WEB_APP_URL_ΣΟΥ"
+GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzsRip04pnl0_QI7-PZBCV1o_W9JbiTx3zt1wOLc1nXrhwGdWMsLFS8-dKirLupyTXiXA/exec"
 
 # ============================================================
 # 3. MENTOR PERSONA & CRITERIA
