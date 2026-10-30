@@ -20,7 +20,7 @@ if not API_KEY:
     raise RuntimeError("GEMINI_API_KEY environment variable not found. Please add it in Render Settings.")
 
 client = genai.Client(api_key=API_KEY)
-MODEL_NAME = "gemini-1.5-flash"
+MODEL_NAME = "gemini-1.5-flash-latest"
 
 # ============================================================
 # 2. DATA FILES
